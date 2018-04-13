@@ -7,6 +7,10 @@
             "email": "andre.telestp@gmail.com"
         }
     ],
+    "licence":"MIT",
+    "require":{
+
+    },
     "autoload": {
         "psr-4": {
             "CodeEduBook\\": ""
